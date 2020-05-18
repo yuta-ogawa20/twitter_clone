@@ -1,0 +1,2 @@
+# twitter_clone
+DjangoでtwitterのようなSNSを作成
