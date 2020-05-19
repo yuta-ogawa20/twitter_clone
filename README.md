@@ -2,5 +2,5 @@
 DjangoでtwitterのようなSNSを作成
 
 要件定義
-https://github.com/Hayu-hayu/twitter_clone.wiki.git
+https://github.com/Hayu-hayu/twitter_clone/wiki/Requirement-definition-document
 画面枚数
